@@ -1,0 +1,19 @@
+{
+  "name": "base-webapp-koa",
+  "version": "0.0.1",
+  "description": "Base repo for use with starting new koawebapps",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavejay/base-webapp-koa.git"
+  },
+  "author": "cavejay@github",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cavejay/base-webapp-koa/issues"
+  },
+  "homepage": "https://github.com/cavejay/base-webapp-koa#readme"
+}
