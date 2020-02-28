@@ -1,6 +1,6 @@
 const p = require("./lib/loggerFactory")("main.js");
 
-const Cottage = require("cottage");
+const { Cottage } = require("cottage");
 const bodyParser = require("koa-bodyparser");
 
 const apiInstaller = require("./lib/api.js");
